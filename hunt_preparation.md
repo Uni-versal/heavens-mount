@@ -27,6 +27,7 @@ The various plants, shrooms and other miscellanea you collect on your hunts serv
 * Barrel Bomb
 * Flash Bomb - likely delet
 * Dung Bomb
+* Barrel Bombs
 
 ** Farm
 Monhun games generally provide some replenishable way of acquiring item ingredients without having to spend too much time harvesting them. In Portable 3rd and Freedom Unite there are farms you can get items out of, while 4 Ultimate and Generation let you duplicate items that you already have. The exact mechanics that will be present in World are as of yet unknown but they're very likely to be worth using, just as they are in the other games.
