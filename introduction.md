@@ -24,3 +24,6 @@ Although I do not recommend it for new players, for completeness' sake, I feel t
 
 ** Which games in the series does this guide apply to?
 Eventually, all of them. As of right now, the information we have on Monster Hunter World are very limited, and as we get closer to release the guide will be updated to match World, and afterwards it will still try to mention version differences in cases where they're important.
+
+** What will this guide teach me?
+We're looking to explain the strategy, mechanics and advanced concepts of Monster Hunter in a digestible form. Monhun games involve a large amount of hidden mechanics that veteran players take for granted and understand intuitively, but will appear impenetrable to a beginner. This guide will not teach you complete basics such as the controls or the interface of the game, but it also won't be a data dump full of foreign concepts that would only be useful to advanced players.
