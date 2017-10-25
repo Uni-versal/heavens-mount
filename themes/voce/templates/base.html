@@ -106,7 +106,7 @@
     <header class="site-header">
       <nav class="navbar navbar-default" role="navigation">
         <div class="container">
-          <div class="row">
+          <div class="row" style="position: relative; z-index: 1;">
             <div class="site-navigation-inner col-sm-12">
               <div class="navbar-header">
                 <button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -117,32 +117,43 @@
                 </button>
               </div>
               <div class="collapse navbar-collapse navbar-ex1-collapse">
-              <ul id="menu-all-pages" class="nav navbar-nav">
-                {% for name, link in LINKS %}
-                <li class="menu-item">{{ display_link(name, link, name) }}</li>
-                {% endfor %}
-              </ul>
+                <ul id="menu-all-pages" class="nav navbar-nav">
+                  {% for name, link in LINKS %}
+                  <li class="menu-item">{{ display_link(name, link, name) }}</li>
+                  {% endfor %}
+
+                  <li class="dropdown menu-item">
+                    <a>DROPDOWN</a>
+                    <ul class="dropdown-menu">
+                      <li><a>Thing</a></li>
+                      <li><a>Another Thing</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </div>
               <div class="social">   
-               {% for name, link in SOCIAL %}
+                {% for name, link in SOCIAL %}
                 {{ display_link(name, link, "") }}
-               {% endfor %}
+                {% endfor %}
               </div>
             </div>
           </div>
         </div>
       </nav><!-- .site-navigation -->
 
+
       <div class="container">
-      <div id="logo">
-        <span class="site-name"><a class="navbar-brand" href="{{ SITEURL }}"><img width="310" src="{{ USER_LOGO_URL }}" class="attachment-full size-full" alt="logo">          </a>
-        </span><!-- end of .site-name -->
-      </div><!-- end of #logo -->
-    </div>
-  </header><!-- #masthead -->
+        <div id="logo">
+          <span class="site-name"><a class="navbar-brand" href="{{ SITEURL }}"><img width="100%" src="{{ USER_LOGO_URL }}" class="attachment-full size-full" alt="logo"> 
+            </a>
+          </span><!-- end of .site-name -->
+        </div><!-- end of #logo -->
+      </div>
+      <!-- #masthead -->
 
 
   </div>
+  </header>
     <div id="content" class="site-content">
       <div class="container main-content-area">
         <div class="row">

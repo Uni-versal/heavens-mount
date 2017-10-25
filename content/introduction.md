@@ -1,6 +1,5 @@
 Title: Foreword
-URL: 
-save_as: index.html
+Date: 10-10-2017 0:00
 
 Monster Hunter is a great series that many players have sunk hundreds, even thousands of hours into. However, the combination of challenging gameplay, daunting amounts of knowledge required to fully understand the game, and occasionally poor in-game tutorials, they have a recurring problem with easing new players into the franchise. With the upcoming release of Monster Hunter: World in mind, Heaven's Mount aims to provide a starting point for new and interested players, as well as be a helpful guide for hunters who are still looking to improve their game.
 

@@ -1,6 +1,6 @@
 body {
-  color: #696969;
-  background-color: #F0C070;
+  color: black;
+  background-color: #C09040;
   word-wrap: break-word;
   font-family: 'Lora', serif;
   line-height: 2;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 h1,
 .h1 {
-  font-size: 28px;
+  font-size: 36px;
 }
 
 h2,
@@ -291,7 +291,7 @@ footer.entry-meta {
   margin-bottom: 30px;
 }
 .entry-title a {
-  color: #444;
+  color: #555;
 }
 hr.section-divider {
   border-color: #E8E8E8;
@@ -323,10 +323,9 @@ article.post:first-child .post-inner-content {
   text-align: center;
 }
 .entry-title {
-  font-family: "Lora", serif;
-  font-style: italic;
-  margin-top: 0;
-  margin-bottom: 15px;
+  font-family: "Montserrat";
+  margin-top: 22px;
+  margin-bottom: 12px;
 }
 .entry-footer {
   margin-top: 10px;
@@ -495,7 +494,9 @@ article.grid iframe {
 /* =Custom Styles
 ----------------------------------------------- */
 #logo {
-  padding: 20px 0 10px 0;
+  width: 100%;
+  height: 250px;
+  padding: 0px 0 10px 0;
   text-align: center;
   border-bottom: 1px solid #dedede;
 }
@@ -624,7 +625,11 @@ line-height: 2.6;
 letter-spacing: 1px;
 }
 .site-name  {
+  width: 100%;
   display: inline-block;
+  position: absolute;
+  top: -210px;
+  left: 0%;
 }
 .navbar-brand {
     display: inline-block;
