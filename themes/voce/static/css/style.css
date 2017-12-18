@@ -305,7 +305,7 @@ hr.section-divider {
 }
 
 .article-contents {
-  max-width: 750px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -1049,4 +1049,14 @@ p a{
 p img{
   display: block;
   margin: 0 auto;
+}
+
+.table-of-contents:after {
+    content:"";
+    display:table;
+    clear:both;
+}
+
+.entry-text{
+    float: left; width: 80%;
 }

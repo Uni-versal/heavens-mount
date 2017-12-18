@@ -1,3 +1,9 @@
+Title: Hunt Basics
+Slug: basics
+Date: 10-10-2017 0:00
+Chapter: basics
+Template: guide
+
 ** Positioning
 An important skill that contributes to a successful hunt, even more important than knowing when to attack, is knowing where to attack from. In other words, positioning is crucial in Monster Hunter; it is literally what makes the difference between a mediocre hunter and a good hunter. To position yourself means to keep yourself at a specific angle and distance relatively to the body of the monster. However, it effectively cannot be taught; the optimal positioning will be different for every monster, weapon, environment, situation, and even player.  
 Every monster has a limited set of attacks; at any time, they can only take one of a few predetermined actions. Every attack that a monster can do will cover a specific area around them, and each of them will pose varying degrees of a threat to the hunter. The combination of all of these considerations leads to helping inform the player's decision of how they should position themselves. As a basic example, if you know that a monster has a dangerous charging attack that can start up quickly, it will be dangerous to stand right in front of that monster. However, it is important to keep in mind that this decision making is fluid; the risk of getting hit can be counterbalanced by the expected reward for repeatedly hitting a specific part - but not necessarily when your health is low, or you don't feel confident in your ability to dodge.

@@ -140,3 +140,7 @@ $RECYCLE.BIN/
 *.lnk
 
 output/
+
+pelican\.pid
+
+*.pid

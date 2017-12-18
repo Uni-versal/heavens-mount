@@ -2,6 +2,7 @@
 <html lang="{{ DEFAULT_LANG }}">
 
 <head>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="{{ AUTHOR }}">
@@ -34,6 +35,7 @@
   {% endif %}
 
   {% block head %}
+
   <meta name="keywords" content="
     {%- if GLOBAL_KEYWORDS -%}
       {{ GLOBAL_KEYWORDS|join(', ') }}
@@ -47,7 +49,6 @@
   {% include "modules/analytics.html" %}
   
 </head>
-
 {% macro get_icon(link) %}
 
   {# Attempt to normalize link URLs #}

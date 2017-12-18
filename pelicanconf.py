@@ -1,3 +1,8 @@
+GUIDE_INDEX = {
+    'basics': ('basics', 'First Steps'),
+    'intro': ('intro', 'Foreword'),
+}
+
 AUTHOR = 'Arc'
 SITENAME = "Heaven's Mount"
 SITEURL = '/'
