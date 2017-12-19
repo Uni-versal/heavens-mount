@@ -1,3 +1,8 @@
+Title: Before the Hunt
+Date: 10-10-2017 0:00
+slug: before-the-hunt
+Template: guide
+
 Beyond crafting better equipment, there are many things you can do that will positively influence your hunts.
 
 ** Hit Zones
