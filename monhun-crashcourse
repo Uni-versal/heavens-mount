@@ -1,61 +1,67 @@
-what is a monhun
-  guide goals
-  how to read
-  gameplay style
-  accessibility
-  solo and team play
-  time investment
-  games in the series
-quick-start guide
-  weapon class playstyles
-  basic concepts
-    hitting it until it dies
-    crafting
-  online etiquette
-practical guide
-  troubleshooting checklist
-  useful items
-hunt preparation
-  hit zones
-  elemental weaknesses
-  * enraged state hit zones
-  food
-  cats
-  items
-    fundamental
-    * situational
-    farming
-hunt mechanics
-  monster states
-  stagger, break, trip, cut
-  status and thresholds
-  exhaust and KO
-  capture
-  aggro
-  * motion values
-  * roll iframes
-armor
-  upgrading
-  defense and resists
-  armor skill points
-  talismans
-  decorations
-weapons
-  elemental and pure damage
-  sharpness - colors, effects, skills
-  affinity
-  * true weapon damage
-  full weapon guides [...]
-progression structure
-  key quests
-  advanced quests
-  low, high and g-rank
-  hunter rank
-hunt learning basics
-  mentality, challenge, improvement
-  learning the behaviour
-  positioning
-  giving chase
-  the timer
-  * aggressiveness
-  mentality again
+# introduction
+ foreword, guide aims
+ how to read
+ guide contents
+
+# what is monster hunter  # split from intro, reorder
+ what is mh
+ solo or group
+ *accessibility
+ game length, time investment
+ *what isn't mh
+ games in the series
+
+# quick start
+ basic explanations
+ weapon descriptions
+ online etiquette
+ *quick tips
+
+# weapons
+ elemental and raw dmg
+ sharpness
+ affinity
+ *true damage
+ ?in-depth guides
+
+# conceptualizing monhun skill
+ troubleshooting walls  # move to top
+ mentality, difficulty  # move to top
+ observing monsters
+ *positioning
+ aggressiveness
+ *ignoring the timer, watching the timer
+
+# understanding monsters
+ monster states and status
+ mounting
+ exhaust and KO
+ * monster attack priority
+ giving chase  # move out from learning chapter
+
+# combat mechanics
+ applying status
+ gunner critical range
+ *roll invul
+ traps and capture
+
+# before the hunt
+ weakzones
+ elemental weakness
+ *motion values
+ items
+ food and cats
+ * cons of bringing cats
+ farms
+
+# armor
+ armor skill points
+ * talismans and decorations
+ upgrading armor
+ elemental resistances
+
+# progression structure
+ stars, key quests
+ ranks
+ HR
+ advanced quests
