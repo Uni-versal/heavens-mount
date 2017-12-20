@@ -14,7 +14,7 @@ A common technique is to set a single Large Bomb up next to the sleeping monster
 ### Exhaustion
 Just as the hunter, monsters have a hidden stamina bar. Using their attacks or becoming afflicted with the Exhaust status will consume their stamina. Once it reaches a low enough value, the monster will temporarily become Exhausted. This has many negative effects on the monster: they'll idle more while drooling, its attacks and movement become sluggish and ineffective, and effects of some items, such as traps, become more powerful on them. In addition, an exhausted monster can't Enrage until the exhaustion ends.  
 An exhausted monster will slowly regenerate stamina, it'll try to eat smaller creatures as well as use its biting attack more often. Eating and biting will regenerate its stamina very quickly, and with enough stamina regained, the exhaustion will end.
-The Hammer and the Hunting Horn are unique in that all their attacks deal Exhaust damage, which makes it very easy to tire out monsters with them. The exact mechanics of Exhaust damage are explained in the combat chapter.
+All attacks done with the Hammer or the Hunting Horn deal Exhaust damage, which makes it very easy to tire out monsters with them. The exact mechanics of Exhaust damage are explained in the combat chapter.
 There are a few other nuances to the way monster stamina works, as explained [here by GaijinHunter].
 ### Enrage
 Many monsters can enrage, which generally happens after taking a certain amount of damage. Enrage can be seen as the opposite of exhaust; An enraged monster becomes far more aggressive and dangerous, with faster, more damaging attacks, sometimes accompanied by a drastic visual change in the monster's appearance, or signaled by a roar. They won't become exhausted until after the enrage ends, and items may have weaker effects on them. Even an enraged monster's defensive qualities will change, as their hit zones and elemental weaknesses shift. The enrage will end after the monster takes enough damage in some cases, while in others the hunters can wait it out.
@@ -40,15 +40,13 @@ Sleep - Causes the monster to immediately fall asleep. The background music will
 Paralysis - Forces the monster to stop moving for a short time. 
 Blast - [paste gaijins entire video on blast]
 
-# Exhaust and KO
-Exhaust and KO damage is somewhat unique; it comes primarily from all Hunting Horn and Hammer attacks, although some other weapons have limited capability of applying it. When an attack that can deal this damage lands, the Exhaust effect is always added; however, KO is only applied if the attack connects with the head of the monster, which is signified by a yellow flash.
-The effect of a successful KO is stunning the monster(stars will circle above its head) which is very similar to paralysis, with the caveat that no further KO damage can be dealt as long as the monster is stunned.
-With enough Exhaust damage dealt, a significant chunk of the monster's stamina will be removed. This will often be enough to reduce it to nothing, causing it to immediately become exhausted.
-
-
 ## Monster Attack Priority
 [doothonk, gunner, items, damage]
 [research this shit]
 
 # Giving Chase
 To avoid hunts that become too long, it's important to properly track and chase the monster. As a monster runs away, it'll often be enough to go in the same direction that it ran away to, but sometimes it'll disappear, by flying or burrowing underground, to a completely different place on the map. Due to this you'll need to make sure that the monster is being tracked, so that you can always see its position and follow its movements. In games before World, this is accomplished with Paintballs, which you should always keep a few of, and make sure the monster is always marked with them during the hunt.
+
+# Traps and Capture
+[trap types, trap diminishing returns]
+[capture conditions]

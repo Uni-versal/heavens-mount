@@ -20,14 +20,13 @@
 # understanding monsters
  monster states and status
  mounting
- exhaust and KO
  * monster attack priority
  giving chase  # move out from learning chapter
+ traps and capture
 
 # before the hunt
  weakzones
  elemental weakness
- *motion values
  items
  food and cats
  * cons of bringing cats
@@ -48,9 +47,10 @@
 
 # combat mechanics
  applying status
+ exhaust and KO
  gunner critical range
+ motion values 
  *roll invul
- traps and capture
 
 # progression structure
  stars, key quests
