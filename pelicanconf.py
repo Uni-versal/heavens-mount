@@ -43,7 +43,7 @@ THEME = './themes/voce/'
 PLUGIN_PATHS = ['./themes/voce/plugins/']
 PLUGINS = ['assets']
 
-USER_LOGO_URL = '/images/header_logo.png'
+USER_LOGO_URL = '/images/header_logo.jpg'
 MANGLE_EMAILS = True
 
 DISPLAY_CATEGORIES_ON_MENU = True
