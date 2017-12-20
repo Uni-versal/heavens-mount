@@ -17,18 +17,21 @@ Besides crafting, you'll also want to make sure that you're stocked up on useful
 # Online Etiquette
 [literally copy paste gaijins video on this topic]
 
-# Quick tips
-Aka, 'what should I know if I just want to jump in and play'?  
-1. Hit it until it dies.
-2. Keep your eyes on the monster.
-3. Use the weapon you enjoy the most. They're all fully viable.
-4. Sharpen your weapon, Blademasters. Shoot the head, Gunners.
-5. Carry potions, and mega-potions if you can craft them.
-6. Don't try to drink anywhere near the monster.
-7. You can't roll through monster attacks. 
-8. Find out which quests are key. Those are the ones required to progress.
-9. If you're having trouble, try again.
+
+<details>
+<summary>Quick tips</summary>
+Aka, 'what should I know if I just want to jump in and play'?    
+1. Hit it until it dies.  
+2. Keep your eyes on the monster.  
+3. Use the weapon you enjoy the most. They're all fully viable.  
+4. Sharpen your weapon, Blademasters. Shoot the head, Gunners.  
+5. Carry potions, and mega-potions if you can craft them.  
+6. Don't try to drink anywhere near the monster.  
+7. You can't roll through monster attacks.   
+8. Find out which quests are key. Those are the ones required to progress.  
+9. If you're having trouble, try again.  
 10. If you're still having trouble, do your research. Hopefully this guide will help you understand what you can improve on.
+</details>
 
 # The Weapons
 [short blurb describing each weapon's basic playstyle and mechanics]

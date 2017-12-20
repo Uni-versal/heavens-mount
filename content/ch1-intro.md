@@ -1,7 +1,9 @@
 Title: Introduction
 Date: 10-10-2017 0:00
-slug: introduction
+slug: index
 Template: guide
+save_as: index.html
+
 
 Monster Hunter is a great series that many have chosen to sink hundreds, even thousands of hours into. However, the combination of challenging gameplay, steep learning curve created by the large amount of mechanics present, and often lacking in-game tutorials, have always made it difficult for new players to ease their way into the franchise.  
 With the upcoming release of Monster Hunter: World in mind, Heaven's Mount aims to provide a starting point for new and interested players, as well as be a helpful guide for fledgling hunters who are looking to improve their game.

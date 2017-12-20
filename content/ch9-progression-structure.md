@@ -4,11 +4,11 @@ slug: beating-the-game
 Template: guide
 
 # Stars and Key Quests
-Quests are ranked with Stars, which map out the progression through the game. Unlocking the next Star requires you to complete every Key Quest in your highest Star, and then finishing its Urgent Quest. In Monster Hunter World, Key Quests will be marked as such, but for older games you might have to find this out online yourself.
+Quests are ranked with Stars, which map out the progression through the game. Unlocking the next Star requires you to complete every Key Quest in your highest Star, and then finishing its Urgent Quest. In Monster Hunter World, Key Quests will be marked as such, but for older games you might have to find this out online yourself.  
 Monsters fought in higher Stars have slightly higher health values and tend to be more dangerous.
 
 # Low Rank, High Rank, G-Rank
-Beyond Stars, quests are ranked in another, more substantial way. When you create a new character, you start out in the Low Rank, later progress into High Rank, and finish in G-Rank(some MH games don't have G-Rank and High Rank is their endgame). Every rank comprises of multiple Star levels.
+Beyond Stars, quests are ranked in another, more substantial way. When you create a new character, you start out in the Low Rank, later progress into High Rank, and finish in G-Rank(some MH games don't have G-Rank and High Rank is their endgame). Every rank comprises of multiple Star levels.  
 Advancing into High and G Rank has a profound effect. All monsters you will fight from that point on will have severely increased health, be far more aggressive, and deal significantly more damage. In addition, in High and G-Rank, rare monster subspecies as well as powerful monsters known as Elder Dragons start appearing more often as Quest targets.
 
 # Hunter Rank

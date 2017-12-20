@@ -12,7 +12,9 @@ Template: guide
 # Affinity
 [affinity effects, crit visuals, crit skills]
 
-# True Damage
-[memes]
+<details>
+<summary>True Damage</summary>
 
+[memes]
+</details>
 

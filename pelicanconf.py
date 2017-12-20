@@ -1,5 +1,5 @@
 GUIDE_INDEX = [
-    ('introduction', 'Introduction'),
+    ('index', 'Introduction'),
     ('what-is-mh', 'What is a Monster Hunter?'),
     ('jumping-in', 'Jumping In'),
     ('understanding-monsters', 'Understanding Monsters'),
