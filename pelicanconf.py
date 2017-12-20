@@ -1,7 +1,15 @@
-GUIDE_INDEX = {
-    'basics': ('basics', 'First Steps'),
-    'intro': ('intro', 'Foreword'),
-}
+GUIDE_INDEX = [
+    ('introduction', 'Introduction'),
+    ('what-is-mh', 'What is a Monster Hunter?'),
+    ('jumping-in', 'Jumping In'),
+    ('understanding-monsters', 'Understanding Monsters'),
+    ('before-the-hunt', 'Before the Hunt'),
+    ('crafting-weapons', 'Crafting Weapons'),
+    ('armor-mechanics', 'Armor Mechanics'),
+    ('combat-expanded', 'Combat, Expanded'),
+    ('beating-the-game', 'Beating the Game'),
+    ('getting-gooder', 'Getting Better'),
+]
 
 AUTHOR = 'Arc'
 SITENAME = "Heaven's Mount"

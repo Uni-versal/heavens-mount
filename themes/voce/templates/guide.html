@@ -53,14 +53,12 @@
           <ul id="guide-toc">
             {% for chapter in GUIDE_INDEX %}
             <li>
-              
-
-              {% if article.chapter != GUIDE_INDEX[chapter][0] %}
-              <a href="{{ SITEURL }}/{{GUIDE_INDEX[chapter][0]}}.html">
-                {{ GUIDE_INDEX[chapter][1] }}</a>
+              {% if article.slug != chapter[0] %}
+              <a href="{{ SITEURL }}/{{ chapter[0] }}.html">
+                {{ chapter[1] }}</a>
               {% else %}
               <b>
-                {{ GUIDE_INDEX[chapter][1] }} </b>
+                {{ chapter[1] }} </b>
               {% endif %}
             </li>
             {% endfor %}

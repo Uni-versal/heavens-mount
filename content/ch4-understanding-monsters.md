@@ -38,11 +38,15 @@ Some weapons deal a small amount of extra status damage in addition to its raw d
 Poison - Deals damage over time.
 Sleep - Causes the monster to immediately fall asleep. The background music will cease, giving the hunters enough time to react and stop attacking in order to not accidentally wake it up with a weak hit.
 Paralysis - Forces the monster to stop moving for a short time. 
-Blast - [paste gaijins entire video on blast]
+Blast - [paste gaijins entire video on 
 
-## Monster Attack Priority
+<details>
+<summary>
+Monster Attack Priority
+</summary>
 [doothonk, gunner, items, damage]
 [research this shit]
+</details>
 
 # Giving Chase
 To avoid hunts that become too long, it's important to properly track and chase the monster. As a monster runs away, it'll often be enough to go in the same direction that it ran away to, but sometimes it'll disappear, by flying or burrowing underground, to a completely different place on the map. Due to this you'll need to make sure that the monster is being tracked, so that you can always see its position and follow its movements. In games before World, this is accomplished with Paintballs, which you should always keep a few of, and make sure the monster is always marked with them during the hunt.

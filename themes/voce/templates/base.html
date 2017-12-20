@@ -123,13 +123,6 @@
                   <li class="menu-item">{{ display_link(name, link, name) }}</li>
                   {% endfor %}
 
-                  <li class="dropdown menu-item">
-                    <a>DROPDOWN</a>
-                    <ul class="dropdown-menu">
-                      <li><a>Thing</a></li>
-                      <li><a>Another Thing</a></li>
-                    </ul>
-                  </li>
                 </ul>
               </div>
               <div class="social">   
@@ -144,10 +137,17 @@
 
 
       <div class="container">
+        
         <div id="logo">
-          <span class="site-name"><a class="navbar-brand" href="{{ SITEURL }}"><img width="100%" src="{{ USER_LOGO_URL }}" class="attachment-full size-full" alt="logo"> 
+          <span class="site-name"><a class="navbar-brand" href="{{ SITEURL }}">
+              <img
+                 src="{{ USER_LOGO_URL }}"
+                 class="attachment-full size-full"
+                 id="logo-img"
+                 alt="logo"> 
             </a>
           </span><!-- end of .site-name -->
+
         </div><!-- end of #logo -->
       </div>
       <!-- #masthead -->
